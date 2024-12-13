@@ -4,7 +4,7 @@
     It's my pleasure to welcome you to my house 🏠🪴
 -->
 
-<img width=100% src="https://www.canva.com/design/DAGZDJ4kzuU/_AWkKazxaJoacneQXSIbQQ/edit?utm_content=DAGZDJ4kzuU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" alt="header"/> 
+![Header Image](https://www.canva.com/design/DAGZDJ4kzuU/_AWkKazxaJoacneQXSIbQQ/edit?utm_content=DAGZDJ4kzuU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=990000&width=435&lines=Hello%2C+it's+Jane+here+👋;I'm+an+Enthusiast+Data+Scientist" alt="Data Scientist"/>
@@ -66,15 +66,15 @@ I love to tell hidden stories from data and I will make films about those data l
 <a href="https://www.leetcode.com/https://leetcode.com/u/Janeizcoding555/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/Janeizcoding555/" height="30" width="40" /></a>
 </p>
 
-Email 📨: [ptran9049@gmail.com](mailto:ptran9049@gmail.com)
+Email 📨 : **[ptran9049@gmail.com](mailto:ptran9049@gmail.com)**
 
 <!--
      Oh, hello there, recruiters!
 -->
 
-### Employer?
+### Employer? Come, come, come
 > [!IMPORTANT]  
-> <a href="https://drive.google.com/drive/folders/1hJGhQTtzDUzMqRtoIQUx7QTLtCN726ZK?usp=sharing" download>Download my resume</a>
+> <a href="https://drive.google.com/drive/folders/1osYhOKhZ5LpOwD7w0hihlcn3YT2q9JA4?usp=drive_link" download>Find my resume here</a>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" alt="footer"/>
 
