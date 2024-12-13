@@ -4,7 +4,7 @@
     It's my pleasure to welcome you to my house 🏠🪴
 -->
 
-![Header Image](https://github.com/JaneTran864/JaneTran/blob/main/Pastel%20Retro%20Welcome%20to%20the%20team%20twitter%20header%20(1).png)
+![Header Image](https://github.com/JaneTran864/JaneTran/blob/main/Pastel%20Retro%20Welcome%20to%20the%20team%20twitter%20header%20(2).png)
 
 <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=990000&width=435&lines=Hello%2C+it's+Jane+here+👋;I'm+an+Enthusiast+Data+Scientist" alt="Data Scientist"/>
