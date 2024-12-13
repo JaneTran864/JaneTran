@@ -22,8 +22,8 @@
      My mission, because I'm a superhero!
 -->
 
-### My mission
-I love to tell hidden stories from data and I will make films about those data lives if possible :vv. I want to build the bridge to connect data power with real problems to make (at least my) lives easier. With my growing technical background and crazily evolving tech, I am and will work my best for my film studio.
+### My mission ⚔️
+I love to tell hidden stories from data and I will make films 🎥 about those data lives if possible °˖✧◝(⁰▿⁰)◜✧˖°. I want to build the bridge to connect data power with real problems to make (at least my ヽ( ▼∀▼)ﾉ) lives easier. With my growing technical background and crazily evolving tech ( ◐ o ◑ ), I am and will work my best for my film studio (ノ`⌒´)ノ┫: ┻┻.
 
 <!--
      This is the list of my skills and tools I am studying!
