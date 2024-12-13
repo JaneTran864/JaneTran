@@ -76,7 +76,7 @@ Email 📨 : **[ptran9049@gmail.com](mailto:ptran9049@gmail.com)**
 > [!IMPORTANT]  
 > <a href="https://drive.google.com/drive/folders/1osYhOKhZ5LpOwD7w0hihlcn3YT2q9JA4?usp=drive_link" download>Find my resume here</a>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" alt="footer"/>
+<img width="100%" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjVnejlmMjM2N3N0anlnZHd4YjBicTVybXdtN3B1aTYwcGlic2t5ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/5Tjg0kBvSVG2jqTjGG/giphy.gif" alt="footer GIF"/>
 
 <!--
      Thanks for being my guest <3
