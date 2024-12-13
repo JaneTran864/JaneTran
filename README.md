@@ -1,4 +1,22 @@
 # JaneTran
+<h1 align="center">Hi 👋,  <a href="https://github.com/JaneTran864" target="blank">Harsh Soni</a> here...</h1> 
+<h3 align="center"> I am a data enthusiast. Nice to meet you!!</h3>  
+  
+  
+<!-- Social Media Handles -->
+
+<h3 align="left">Connect with me:</h3>  
+<p align="left">
+<a href="https://instagram.com/hash.prog" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="hash.prog" height="30" width="40" /></a>  
+<a href="https://github.com/hashfx" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="hash.prog" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/14162484/hash-fx" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="hash.prog" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/hashprog/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="hash.prog" height="30" width="40" /></a>
+<a href="https://hashfx.github.io/Portfolio2022" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googleearth.svg" alt="hash.prog" height="30" width="40" /></a>
+
+
+
+
+
 <p align="center">
   <img src="./Avery (1).png" width="400" />
 </p>
