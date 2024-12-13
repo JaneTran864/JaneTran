@@ -2,10 +2,9 @@
 <!--
     Hey there, I'm Jane!
     It's my pleasure to welcome you to my house 🏠🪴
-    
 -->
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=header" alt="header"/> 
+<img width=100% src="https://www.canva.com/design/DAGZDJ4kzuU/_AWkKazxaJoacneQXSIbQQ/edit?utm_content=DAGZDJ4kzuU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" alt="header"/> 
 
 <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=D9BED1&width=435&lines=Hello%2C+it's+Daria+Stanilevici;Business+Analyst" alt="Business Analyst"/>
