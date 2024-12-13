@@ -61,8 +61,10 @@ I love to tell hidden stories from data and I will make films about those data l
 
 ### Connect with me!
 [![LinkedIn](https://github.com/user-attachments/assets/880aaea6-79b9-4058-b9b4-342391ca04ea)](https://www.linkedin.com/in/jane-tran-tran/)
-[![Gmail](https://github.com/user-attachments/assets/172bc424-569a-4522-a787-97f4cd5a685d)](mailto:ptran9049@gmail.com)
-[![Kaggle](https://github.com/user-attachments/assets/6cc0dbde-bca6-43e8-a460-aa67fb449c80)](https://www.kaggle.com/janetrann)
+### Connect with me on Gmail!
+[![Gmail](https://github.com/user-attachments/assets/172bc424-569a-4522-a787-97f4cd5a685d)](mailto:ptran9049@gmail.com)  
+Email: [ptran9049@gmail.com](mailto:ptran9049@gmail.com)
+[![Kaggle](https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png)](https://www.kaggle.com/janetrann)
 
 
 <!--
