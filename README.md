@@ -1,5 +1,4 @@
-# JaneTran
-<h1 align="center">Hi 👋,  <a href="https://github.com/JaneTran864" target="blank">Harsh Soni</a> here...</h1> 
+<h1 align="center">Hi 👋,  <a href="https://github.com/JaneTran864" target="blank">Jane</a> here...</h1> 
 <h3 align="center"> I am a data enthusiast. Nice to meet you!!</h3>  
   
   
