@@ -1,72 +1,96 @@
-<h1 align="center">Hi 👋,  <a href="https://github.com/JaneTran864" target="blank">Jane</a> here...</h1> 
-<h3 align="center"> I am a data enthusiast. Nice to meet you!!</h3>  
-  
-  
-<!-- Social Media Handles -->
 
-<h3 align="left">Connect with me:</h3>  
-<p align="left">
-<a href="https://instagram.com/hash.prog" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="hash.prog" height="30" width="40" /></a>  
-<a href="https://github.com/hashfx" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="hash.prog" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/14162484/hash-fx" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="hash.prog" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/hashprog/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="hash.prog" height="30" width="40" /></a>
-<a href="https://hashfx.github.io/Portfolio2022" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googleearth.svg" alt="hash.prog" height="30" width="40" /></a>
+<!--
+    Hey there, I'm Jane!
+    It's my pleasure to welcome you to my house 🏠🪴
+    
+-->
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=header" alt="header"/> 
 
+<a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=D9BED1&width=435&lines=Hello%2C+it's+Daria+Stanilevici;Business+Analyst" alt="Business Analyst"/>
+</a>
 
+<!--
+    Your own Terminal GIF can be created here -> https://www.terminalgif.com
+-->
 
+<div>
+    <img src="./assets/about_daria.gif" alt="About Me Terminal GIF"/>
+</div>
 
-<p align="center">
-  <img src="./Avery (1).png" width="400" />
-</p>
+<!--
+     My mission, because I'm a superhero!
+-->
 
-<p align="center">
-  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-  <img src="https://readme-typing-svg.demolab.com/?lines=A%20builder,%20An%20explorer,%20A%20learner;Data%20and%20Software%20Engineer;3%20years%20of%20coding%20experience&center=true&width=440&height=45&color=FA4549&vCenter=true&pause=1000&size=22" />
-</p>
-- 🌱 I’m currently learning **Machine Learning and Full Stack**
+### My mission
+I’m driven by a love for solving problems! With a technical background, I’ve always found my place in connecting people and working closely with businesses. My mission is to bridge connections, empower collaboration, and tackle real-world challenges that make a meaningful difference.
 
-- 💬 Ask me about **Python and DSA.**
+<!--
+     This is the list of my skills and tools I am studying!
+-->
 
-- 📫 How to reach me **harrymystogan@gmail.com**
+### Main skills
+[![My Skills](https://skillicons.dev/icons?i=py,regex,github,git,mongodb,mysql,eclipse,java,spring,js,nodejs,react,express,jest,jenkins,cpp,cs,dotnet,html,css,bootstrap,pug,php,androidstudio,blender,ps,notion)](https://skillicons.dev)
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/avery-doan-844093174/](https://www.linkedin.com/in/avery-doan-844093174/)
+### Studying
+[![Learning](https://skillicons.dev/icons?i=aws,azure,ruby)](https://skillicons.dev)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/avery-doan-844093174/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/avery-doan-844093174/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/averydoanaveryd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/averydoanaveryd" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/avery_doan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/avery_doan/" height="30" width="40" /></a>
-</p>
+<!--
+     I also have my own blog with useful information, check it out ^^
+-->
 
-<details open>
-  <summary><h2>🛠️ My Stacks</h2></summary>
-  <h3>👨‍💻 Programming and Markup Languages</h3>
-  <p>
-    <img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white">
-    <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white">
-    <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white">
-    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black">
-    <img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white">
-    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white">
-  </p>
-  <h3>🧰 Frameworks and Libraries</h3>
-  <p>
-    <img alt="Apache Spark" src="https://img.shields.io/badge/Apache%20Spark-FDEE21?logo=apachespark&logoColor=black">
-    <img alt="Djano" src="https://img.shields.io/badge/django-%23092E20.svg?logo=django&logoColor=white">
-    <img alt="Flask" src="https://img.shields.io/badge/Flask-000000.svg?logo=flask&logoColor=white">
-    <img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white">
-    <img alt="OpenCV" src="https://img.shields.io/badge/opencv-%23white.svg?logo=opencv&logoColor=white">
-    <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white">
-    <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?logo=scikit-learn&logoColor=white">
-  </p>
-  <h3>🗄️ Databases and Cloud Hosting</h3>
-  <p>
-    <img alt="AWS" src="https://img.shields.io/badge/azure-%230072C6.svg?logo=microsoftazure&logoColor=white">
-    <img alt="Azure" src="https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-aws&logoColor=white">
-    <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white">
-    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white">
-    <img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white">
-  </p>
-</details>
+### Publications
+<div>
+  <a href="https://medium.com/@daria-stanilevici">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank" alt="Medium">
+  </a>
+  <a href="https://dev.to/daria-stanilevici">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" target="_blank" alt="Dev.to">
+  </a>
+</div>
+
+You can find my publications on Medium and Dev.to, where I share career insights, tips, and my knowledge and experience in tech.
+I also delve into personal thoughts and research on AI, quantum computing and other interesting topics.
+Check out my latest post 👇<br>
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@daria-stanilevici/0">
+    <img src="https://github-readme-medium-recent-article.vercel.app/medium/@daria-stanilevici/0" alt="Medium Article">
+  </a>
+<br>
+
+<!--
+     Fast links to my socials!
+-->
+
+### Connect with me!
+<div>
+    <a href="https://www.linkedin.com/in/daria-stanilevici/">
+        <img src="https://github.com/user-attachments/assets/880aaea6-79b9-4058-b9b4-342391ca04ea" alt="LinkedIn" width="35" height="35"/>
+    </a>
+    <a href="https://dev.to/daria-stanilevici">
+        <img src="https://github.com/user-attachments/assets/172bc424-569a-4522-a787-97f4cd5a685d" alt="Dev.to" width="37" height="37"/>
+    </a>
+    <a href="https://www.credly.com/users/daria-stanilevici">
+        <img src="https://github.com/user-attachments/assets/6cc0dbde-bca6-43e8-a460-aa67fb449c80" alt="Credly" width="35" height="35"/>
+    </a>
+    <a href="https://www.artstation.com/daria-stanilevici">
+        <img src="https://github.com/user-attachments/assets/1206188f-4274-4240-93e6-0dfc1919f9f0" alt="Art Station" width="33" height="33"/>
+    </a>
+    <a href="https://medium.com/@daria-stanilevici">
+        <img src="https://github.com/user-attachments/assets/33da1818-a750-4e4b-a09a-9c8b1c4e9338" alt="Medium" width="35" height="35"/>
+    </a>
+</div>
+
+<!--
+     Oh, hello there, recruiters!
+-->
+
+### Employer?
+> [!IMPORTANT]  
+> <a href="https://drive.google.com/drive/folders/1hJGhQTtzDUzMqRtoIQUx7QTLtCN726ZK?usp=sharing" download>Download my resume</a>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" alt="footer"/>
+
+<!--
+     Thanks for being my guest <3
+-->
