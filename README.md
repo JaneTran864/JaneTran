@@ -34,10 +34,15 @@ I love to tell hidden stories from data and I will make films about those data l
 [![Programming](https://skillicons.dev/icons?i=cpp,css,html,py,js,typescript)](https://skillicons.dev)
 
 ### 🧰 Frameworks and Libraries
-[![Frameworks](https://skillicons.dev/icons?i=spark,django,flask,numpy)](https://skillicons.dev)  
-<img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-%23white.svg?logo=opencv&logoColor=white" height="30">  
-<img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white" height="30">  
-<img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?logo=scikit-learn&logoColor=white" height="30">
+<p>
+    <img alt="Apache Spark" src="https://img.shields.io/badge/Apache%20Spark-FDEE21?logo=apachespark&logoColor=black" height="30">
+    <img alt="Django" src="https://img.shields.io/badge/Django-092E20.svg?logo=django&logoColor=white" height="30">
+    <img alt="Flask" src="https://img.shields.io/badge/Flask-000000.svg?logo=flask&logoColor=white" height="30">
+    <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243.svg?logo=numpy&logoColor=white" height="30">
+    <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-%23white.svg?logo=opencv&logoColor=white" height="30">
+    <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white" height="30">
+    <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E.svg?logo=scikit-learn&logoColor=white" height="30">
+</p>
 
 ### 🗄️ Databases and Cloud Hosting
 [![DB](https://skillicons.dev/icons?i=mongodb,mysql,aws)](https://skillicons.dev)
@@ -67,6 +72,7 @@ I love to tell hidden stories from data and I will make films about those data l
     <a href="https://www.kaggle.com/janetrann" target="_blank">
         <img src="https://github.com/user-attachments/assets/6cc0dbde-bca6-43e8-a460-aa67fb449c80" alt="Kaggle" width="35" height="35"/>
     </a>
+</div>
 
 <!--
      Oh, hello there, recruiters!
