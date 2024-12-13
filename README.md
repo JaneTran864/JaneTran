@@ -30,14 +30,14 @@ I love to tell hidden stories from data and I will make films about those data l
 -->
 
 ### Main skills
-### 
-[![👨‍💻 Programming and Markup Languages](https://skillicons.dev/icons?i=cpp,css,html,py,js,typescript)](https://skillicons.dev)
+### 👨‍💻 Programming and Markup Languages
+[![Programming](https://skillicons.dev/icons?i=cpp,css,html,py,js,typescript)](https://skillicons.dev)
 
-### 
-[![🧰 Frameworks and Libraries](https://skillicons.dev/icons?i=spark,django,flask,numpy,opencv,pandas,scikit-learn)](https://skillicons.dev)
+### 🧰 Frameworks and Libraries
+[![Frameworks](https://skillicons.dev/icons?i=spark,django,flask,numpy,opencv,pandas,scikit-learn)](https://skillicons.dev)
 
-### 
-[![🗄️ Databases and Cloud Hosting](https://skillicons.dev/icons?i=mongodb,mysql,aws)](https://skillicons.dev)
+### 🗄️ Databases and Cloud Hosting
+[![DB](https://skillicons.dev/icons?i=mongodb,mysql,aws)](https://skillicons.dev)
 
 
 ### Studying
