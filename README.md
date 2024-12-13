@@ -59,9 +59,12 @@ I love to tell hidden stories from data and I will make films about those data l
      Fast links to my socials!
 -->
 
-### Connect with me!
-[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2013.png)](https://www.linkedin.com/in/jane-tran-tran/)
-[![Kaggle](https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png)](https://www.kaggle.com/janetrann)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/jane-tran-tran/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jane-tran-tran/" height="30" width="40" /></a>
+<a href="https://kaggle.com/https://www.kaggle.com/janetrann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/janetrann" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/u/Janeizcoding555/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/Janeizcoding555/" height="30" width="40" /></a>
+</p>
 
 Email 📨: [ptran9049@gmail.com](mailto:ptran9049@gmail.com)
 
