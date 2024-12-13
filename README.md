@@ -59,7 +59,7 @@ I love to tell hidden stories from data and I will make films 🎥 about those d
      Fast links to my socials!
 -->
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">CONNECT WITH ME:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/jane-tran-tran/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="https://www.linkedin.com/in/jane-tran-tran/" height="40" width="40"/></a>
 <a href="https://kaggle.com/https://www.kaggle.com/janetrann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/janetrann" height="30" width="40" /></a>
@@ -73,8 +73,8 @@ Email 📨 : **[ptran9049@gmail.com](mailto:ptran9049@gmail.com)**
 -->
 
 ### Employer? Come, come, come
-> [!IMPORTANT]  
-> <a href="https://drive.google.com/drive/folders/1osYhOKhZ5LpOwD7w0hihlcn3YT2q9JA4?usp=drive_link" download>Find my resume here</a>
+> [!IMPORTANT! YOU NEED TO CHECK THIS LINK OUT!]  
+> <a href="https://drive.google.com/drive/folders/1osYhOKhZ5LpOwD7w0hihlcn3YT2q9JA4?usp=drive_link" download>This is my resume</a>
 
 <img width="50%" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjVnejlmMjM2N3N0anlnZHd4YjBicTVybXdtN3B1aTYwcGlic2t5ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/5Tjg0kBvSVG2jqTjGG/giphy.gif" alt="footer GIF"/>
 
