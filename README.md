@@ -23,17 +23,25 @@
 -->
 
 ### My mission
-I’m driven by a love for solving problems! With a technical background, I’ve always found my place in connecting people and working closely with businesses. My mission is to bridge connections, empower collaboration, and tackle real-world challenges that make a meaningful difference.
+I love to tell hidden stories from data and I will make films about those data lives if possible. I want to build the bridge to connect data power with real problems to make (at least my) lives easier. With my growing technical background and crazily evolving tech, I am and will work my best for my film studio.
 
 <!--
      This is the list of my skills and tools I am studying!
 -->
 
 ### Main skills
-[![My Skills](https://skillicons.dev/icons?i=py,regex,github,git,mongodb,mysql,eclipse,java,spring,js,nodejs,react,express,jest,jenkins,cpp,cs,dotnet,html,css,bootstrap,pug,php,androidstudio,blender,ps,notion)](https://skillicons.dev)
+### 
+[![👨‍💻 Programming and Markup Languages](https://skillicons.dev/icons?i=cpp,css,html,py,js,typescript)](https://skillicons.dev)
+
+### 
+[![🧰 Frameworks and Libraries](https://skillicons.dev/icons?i=spark,django,flask,numpy,opencv,pandas,scikit-learn)](https://skillicons.dev)
+
+### 
+[![🗄️ Databases and Cloud Hosting](https://skillicons.dev/icons?i=mongodb,mysql,aws)](https://skillicons.dev)
+
 
 ### Studying
-[![Learning](https://skillicons.dev/icons?i=aws,azure,ruby)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=azure,docker)](https://skillicons.dev)
 
 <!--
      I also have my own blog with useful information, check it out ^^
